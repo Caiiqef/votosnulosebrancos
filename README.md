@@ -9,7 +9,7 @@ Rafael Fernandes Marques - RA: 1460481821095
 Fernando Masanori
 
 # Tema:
-## Crescimento dos votos brancos e nulos nos últimos quatro anos de elições municipais <br> (2018, 2016, 2014, 2012)
+## Crescimento dos votos brancos e nulos nos últimos quatro anos de eleições municipais <br> (2018, 2016, 2014, 2012)
 
 # Fonte:
 https://www.tse.jus.br/hotsites/pesquisas-eleitorais/resultados.html <br>
