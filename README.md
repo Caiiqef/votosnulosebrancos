@@ -1,4 +1,4 @@
-# CrescimentoDosVotosNulosEBrancosNasEleicoes
+# votosnulosebrancos
 Análise de Dados Públicos 2020 - Eleições
 
 # Alunos:
